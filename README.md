@@ -28,3 +28,9 @@ chmod +x install.sh
 # Troubleshooting
 If some custom icons (steam, music, etc.) stay unchanged, change them to ```folder-steam``` instead of ```folder-blue-steam```.  
 That should fix it, if not, create an issue.
+
+# Uninstall
+```
+chmod +x uninstall.sh
+./uninstall.sh
+```
