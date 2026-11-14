@@ -1,6 +1,15 @@
 # Caelestia-Papirus  
 Papirus Icon swither based on your wallpaper.  
 
+# DO NOT USE THIS, IT DOESNT DO ANYTHING
+# TO HAVE DYNAMIC PAPIRUS FOLDERS RUN THIS:
+```  
+echo "$USER ALL=(ALL) NOPASSWD: $(which papirus-folders)" | sudo tee /etc/sudoers.d/papirus-folders
+sudo chmod 440 /etc/sudoers.d/papirus-folders   
+```    
+# THATS ALL
+
+
 <details>
 <summary><h2>Screenshots</h2></summary>
 
